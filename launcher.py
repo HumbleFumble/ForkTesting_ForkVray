@@ -6,5 +6,8 @@ import os
 def run():
     print(f"Running {__file__}")
 
+def project_run():
+    print(f"Running {__file__} as vray fork")
+
 if __name__ == "__main__":
     run()
